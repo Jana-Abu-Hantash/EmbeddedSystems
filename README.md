@@ -33,3 +33,5 @@ While solar tracking systems are common, this project stands out by integrating 
 
 ## Conclusion
 The Keyestudio Sun Follower project showcases the potential and versatility of embedded systems in renewable energy. Its successful implementation of sensors, actuators, and intelligent control demonstrates the practicality of smart solar tracking systems. The project opens avenues for future enhancements in scalability and connectivity, further extending its applicability and efficiency.
+
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2023>`.
